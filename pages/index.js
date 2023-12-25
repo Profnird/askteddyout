@@ -27,6 +27,7 @@ export default function Home() {
           className="w-full bg-contain"
           src={switchPuss}
           alt="teddy bear"
+          priority
         />
       </div>
       <div className="flex gap-5 w-full md:w-[25rem]">
