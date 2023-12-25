@@ -23,7 +23,7 @@ export const RandomButton = () => {
           top: position.top,
           left: position.left,
         }}
-        className="px-3 shadow-2xl hover:shadow-md flex-1 border-2 py-5"
+        className="px-3 w-[10em] shadow-2xl hover:shadow-md border-2 py-5"
       >
         No
       </button>
